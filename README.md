@@ -1,10 +1,10 @@
-# Bleed Bot Clone 🤖
+# Avenir Bot
 
-A comprehensive Discord bot that replicates the core functionalities and user experience of the popular "Bleed" bot. This bot includes moderation tools, utility features, and a tag system.
 
-## ✨ Features
 
-### 🛡️ Moderation Commands
+
+
+###  Moderation Commands
 - **Kick** - Remove users from the server
 - **Ban** - Ban users with optional duration
 - **Unban** - Unban users by ID
